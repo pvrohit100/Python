@@ -1,13 +1,13 @@
 # Python
 Get to know A to Z of Python
 ## Resources
-If you are new to Git and GitHub, to make your first contributions, visit this: [first-contributions](https://github.com/firstcontributions/first-contributions).
+If you are new to Git and GitHub, to make your first contributions, visit this: [Hello World](https://github.com/Novice-Paradigm/Hello-World/).
 
 ## Diving Into Python
 
 ### Book
-- [Learn Python3 the Hard Way by Zed Shaw](Books/LP3THW.pdf)
 - [Python For You and me by Kushal Das](https://pymbook.readthedocs.io/en/latest/)
+- [Learn Python3 the Hard Way by Zed Shaw](Books/LP3THW.pdf)
 
 ### Online Courses
 - [MIT 6.001x: Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
@@ -16,7 +16,7 @@ If you are new to Git and GitHub, to make your first contributions, visit this: 
 - [Geeks for Geeks: Python](https://www.geeksforgeeks.org/python-programming-language/)
 - [Python Docs](https://docs.python.org/3/tutorial/)
 - [PEP8: Official python documentation](https://docs.python.org/3/tutorial/)
--[Codecadmy](https://www.codecademy.com/learn/learn-python-3)
+- [Codecadmy](https://www.codecademy.com/learn/learn-python-3)
 - [TutorialsPoint](https://www.tutorialspoint.com/python/index.htm)
 
 ### Realtime practice on Python
